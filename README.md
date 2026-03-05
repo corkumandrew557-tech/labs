@@ -1,4 +1,4 @@
-# CS124 Labs
+# 1111
 
 In this repository, you will find the Labs for CS124.
 Some labs will be required, so please check the course website for the latest guidelines so you don't miss required in-person lab sessions!
